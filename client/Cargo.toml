@@ -1,0 +1,11 @@
+[package]
+name = "neuro_client"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+shared = { path = "../shared" }
+tokio = { workspace = true }
+bincode = { workspace = true }
+anyhow = { workspace = true }
+clap = { version = "4.0", features = ["derive"] } # CLI Argument Parser

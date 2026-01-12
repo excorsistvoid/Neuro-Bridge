@@ -1,0 +1,12 @@
+[package]
+name = "neuro_server"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+shared = { path = "../shared" }
+tokio = { workspace = true }
+serde = { workspace = true }
+bincode = { workspace = true }
+anyhow = { workspace = true }
+ash = { workspace = true } # Vulkan bindings
